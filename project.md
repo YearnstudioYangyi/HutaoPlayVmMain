@@ -15,7 +15,7 @@ prev: false
 
 ## 正在制作
 
-- [Windows Hutao OS10](/project/os10)
+- [Windows Hutao OS 10](/project/os10)
 
 ## 已发布
 - [旧 Hutao OS 10](/project/old-os10)
