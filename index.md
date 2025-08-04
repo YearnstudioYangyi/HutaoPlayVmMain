@@ -1,5 +1,5 @@
 ---
-titleTemplate: Yearnstudio
+titleTemplate:
 layout: home
 
 hero:
