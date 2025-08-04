@@ -20,6 +20,8 @@
 
 [B站个人主页](https://space.bilibili.com/1845800720)
 
+[爱发电](https://afdian.com/a/starfire34187?tab=feed)
+
 ![CakesAreLies](/friends/CakesAreLies.jpg)
 
 ## TangerinePeel
@@ -103,5 +105,7 @@
 [B站主页](https://space.bilibili.com/1128177448)
 
 [毅阳工作室官网](https://www.yearnstudio.cn/)
+
+[爱发电](https://afdian.com/a/yearnstudio)
 
 ![阳毅](/friends/yangyi.jpg)
