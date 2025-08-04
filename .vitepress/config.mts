@@ -26,7 +26,7 @@ export default defineConfig({
                     { text: "Hutao OS 11", link: "/project/os11" }
                 ], collapsed: false
             },
-            { text: "友链", link: "/friends" }
+            { text: "好友", link: "/friends" }
         ],
         socialLinks: [
             { icon: "bilibili", link: "https://b23.tv/lzwZxIV" }

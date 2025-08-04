@@ -11,11 +11,15 @@ hero:
 
 features:
   - title: 简介
-    icon: 👥
+    icon: 📄
     link: /about
     linkText: 我的个人介绍
   - title: 作品
     icon: 💻
     link: /project
-    linkText: 作品
+    linkText: Windows Hutao OS系列
+  - title: 好友
+    icon: 👥
+    link: /friends
+    linkText: 项目的贡献者
 ---
