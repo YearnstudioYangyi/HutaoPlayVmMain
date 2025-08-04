@@ -1,3 +1,47 @@
+@font-face {
+    font-family: 'Misans';
+    src: url('https://vip.123pan.cn/1814376442/url/fonts/MiSans-Medium.ttf');
+}
+
 :root {
-    --vp-c-brand-1: blue;
+    --vp-c-brand-1: #f6cbf6;
+    font-family: Misans !important;
+}
+
+body {
+    font-family: Misans !important;
+}
+
+.VPLastUpdated {
+    display: none;
+}
+
+.image-src {
+    width: 200px;
+
+}
+
+a:hover {
+    color: var(--vp-c-brand-1) !important;
+}
+
+a:visited {
+    color: var(--vp-c-brand-1) !important;
+}
+
+a:active {
+    color: var(--vp-c-brand-1) !important;
+}
+
+div._friends img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+a.VPFeature h2 {
+    color: black;
+}
+
+html.dark a.VPFeature h2 {
+    color: white !important;
 }

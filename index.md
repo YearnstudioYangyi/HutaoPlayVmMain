@@ -4,10 +4,9 @@ layout: home
 
 hero:
   name: 胡桃玩VM
-  text: 人
-  tagline: 一个B站科技区UP主，一个胡桃厨，Hutao 0S系列创作者
+  tagline: Windows Hutao OS系列创作者，科技区UP主，同时也是一个胡桃厨
   image:
-    src: /favicon.jpg
+    src: /favicon.png
     alt: 胡桃LOGO
 
 features:
