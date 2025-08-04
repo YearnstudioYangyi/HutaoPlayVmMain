@@ -96,6 +96,8 @@
 
 [B站个人主页](https://space.bilibili.com/3494376711916079)
 
+[gbcOS-486OS](https://www.gbcos.xyz/)
+
 ![kikl](/friends/kikl.jpg)
 
 ## 阳毅

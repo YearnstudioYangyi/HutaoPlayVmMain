@@ -12,7 +12,8 @@ export default defineConfig({
             {
                 text: "友链",
                 items: [
-                    { text: "Yearnstudio资源站", link: "https://alist.yearnstudio.cn" }
+                    { text: "Yearnstudio资源站", link: "https://alist.yearnstudio.cn" },
+                    { text: "gbcOS-486OS", link: "https://www.gbcos.xyz" }
                 ]
             },
             { text: "关于", link: "/about" },
