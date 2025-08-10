@@ -2,6 +2,7 @@
     "scripts": {
         "docs:dev": "vitepress dev",
         "docs:build": "vitepress build",
+        "docs:build:post": "vitepress build && post-build.bat",
         "docs:preview": "vitepress preview",
         "lint": "eslint ."
     },

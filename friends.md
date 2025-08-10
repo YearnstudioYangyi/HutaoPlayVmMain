@@ -58,6 +58,14 @@
 
 ![霍霍玩OpenBSD](/friends/HuoHuoWanOpenBSD.jpg)
 
+## 鏡空鈴_Kuurin
+
+##### Le dieu de la justice éclaire les hommes de lumière.
+
+[B站个人主页](https://space.bilibili.com/526865195)
+
+![Kuurin](/friends/Kuurin.webp)
+
 ## VMwareXP
 
 ##### 铁路&计算机交流。
@@ -100,6 +108,14 @@
 
 ![kikl](/friends/kikl.jpg)
 
+## 一路奏
+
+##### checking......
+
+[B站个人主页](https://space.bilibili.com/1567656346)
+
+![一路奏](/friends/yiluzou.webp)
+
 ## 阳毅
 
 ##### 保持热爱，奔赴山海。
@@ -109,5 +125,7 @@
 [毅阳工作室官网](https://www.yearnstudio.cn/)
 
 [爱发电](https://afdian.com/a/yearnstudio)
+
+[个人博客](https://yangyiit.top)
 
 ![阳毅](/friends/yangyi.jpg)

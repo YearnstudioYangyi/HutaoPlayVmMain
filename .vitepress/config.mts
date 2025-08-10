@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress"
+import rewritePlugin from './vitepress-plugin-rewrite'
 
 export default defineConfig({
     lang: "zh-Hans",
@@ -16,18 +17,18 @@ export default defineConfig({
                     { text: "gbcOS-486OS", link: "https://www.gbcos.xyz" }
                 ]
             },
-            { text: "关于", link: "/about" },
+            { text: "关于", link: "/about.html" },
         ],
         sidebar: [
-            { text: "关于", link: "/about" },
+            { text: "关于", link: "/about.html" },
             {
-                text: "作品", link: "/project", items: [
-                    { text: "Windows Hutao OS 10", link: "/project/os10" },
-                    { text: "旧Hutao OS 10", link: "/project/old-os10" },
-                    { text: "Hutao OS 11", link: "/project/os11" }
+                text: "作品", link: "/project.html", items: [
+                    { text: "Windows Hutao OS 10", link: "/project/os10.html" },
+                    { text: "旧Hutao OS 10", link: "/project/old-os10.html" },
+                    { text: "Hutao OS 11", link: "/project/os11.html" }
                 ], collapsed: false
             },
-            { text: "好友", link: "/friends" }
+            { text: "好友", link: "/friends.html" }
         ],
         socialLinks: [
             { icon: "bilibili", link: "https://b23.tv/lzwZxIV" }
@@ -50,4 +51,9 @@ export default defineConfig({
         ["link", { rel: "icon", href: "/favicon.png" }],
         ["link", { rel: "stylesheet", href: "https://lib.baomitu.com/font-awesome/6.5.1/css/all.min.css", media: "none", onload: "media=\"all\"" }],
     ],
+    vite: {
+        plugins: [
+            rewritePlugin(),
+        ],
+    },
 })
